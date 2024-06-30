@@ -1,5 +1,5 @@
 //This is the main class for Encapsulation class
-package com.tnsif.programs;
+package com.tnsif.programs.day1;
 
 public class EncapsulationMain {
 

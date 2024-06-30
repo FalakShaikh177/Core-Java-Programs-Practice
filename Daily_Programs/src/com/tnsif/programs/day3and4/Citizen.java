@@ -1,4 +1,4 @@
-package com.tnsif.programs.daythree;
+package com.tnsif.programs.day3and4;
 
 public class Citizen {
 	

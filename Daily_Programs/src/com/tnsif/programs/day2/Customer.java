@@ -1,4 +1,4 @@
-package com.tnsif.programs;
+package com.tnsif.programs.day2;
 
 public class Customer {
 	

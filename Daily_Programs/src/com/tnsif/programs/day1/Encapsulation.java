@@ -2,7 +2,7 @@
    Encapsulation refers to integrate data members(variables) and member function(methods)
 */
 
-package com.tnsif.programs;
+package com.tnsif.programs.day1;
 
 public class Encapsulation {
 	
